@@ -1,0 +1,6 @@
+deadline 1
+clobetasolpropionate 55
+hydrocortisone 6
+methylprednisolone 33
+prednisolone 6
+prednisone 78

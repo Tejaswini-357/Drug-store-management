@@ -1,0 +1,17 @@
+deadline 5
+ibuprofen 8
+naproxen 9
+meloxicam 6
+celecoxib 9
+acetaminophen 7 
+morphine 5
+hydrocodone 3 
+bitartrate 4
+oxycodone 67
+tramadolhydrochloride 32 
+sumatriptan 67
+alendronatesodium 9
+baclofen 5
+carisoprodol 7
+
+YOUR ORDER IS PLACED:)

@@ -1,0 +1,15 @@
+deadline 5
+ibuprofen 88
+naproxen 890
+meloxicam 67
+celecoxib 99
+acetaminophen 67 
+morphine 77
+hydrocodone 89 
+bitartrate 45
+oxycodone 67
+tramadolhydrochloride 32 
+sumatriptan 67
+alendronatesodium 90
+baclofen 54
+carisoprodol 78

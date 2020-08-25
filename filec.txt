@@ -1,0 +1,9 @@
+deadline 4
+diclofenac 2
+ibuprofen 3
+naproxen 90
+meloxicam 4
+celecoxib 32
+acetaminophen 13
+morphine 31
+
